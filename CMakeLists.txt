@@ -43,6 +43,7 @@ add_executable(
     test/main.cpp
     test/example_add.cpp
     test/example_subtract.cpp
+    test/example_multiply.cpp
     )
  
 add_dependencies(unit_tests googletest)
